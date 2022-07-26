@@ -1,3 +1,3 @@
 - 👋 Olá! Eu sou o Mikael Alisson! 😁
-- 🌱 Atualmente estudando ADS 💻,  JavaScrypt 📙,  HTML 🖋, e Python 🐍.
+- 🌱 Atualmente estudando ADS 💻,  JavaScript📒,  HTML🖊, e Python 🐍.
 - 📫 Contate-me no email: mikael.alisson@outlook.com
